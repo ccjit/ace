@@ -1,4 +1,19 @@
 body {
-  background-color: #b3acf1;
+  background-color: #00bbfa;
   text-align: center;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+a {
+  color: #007bff
+}
+.p1 {
+  color: #007bff
 }
